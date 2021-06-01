@@ -1,7 +1,7 @@
 ---
 title: Frankly Toro
 role: Ms Student in Electrical and Computer Engineering
-avatar_filename: kaust-cemse-ece-ivul-frankly-l-toro-gonzalez-n-z-7-8913-4k.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
